@@ -283,6 +283,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
+- [Mining Software Repositories and Search-Based Software Engineering](https://github.com/dspinellis/awesome-msr) - Data sets for conducting empirical software engineering research by mining software repositories or by using search-based software engineering methods
 
 
 ## Big Data
